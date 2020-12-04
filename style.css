@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: url(CoffeeCup.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: aliceblue;
+}
+
+.nav-link {
+  color: white;
+  font-size: 20px;
+}
+
+.title {
+  padding-top: 125px;
+  font-family: "Anton", sans-serif;
+  color: rgb(255, 255, 255);
+  margin-left: 20px;
+}
+
+.title h1 {
+  font-size: 45px;
+}
+
+#design {
+  color: white;
+}
+
+#design:hover {
+  color: red;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
